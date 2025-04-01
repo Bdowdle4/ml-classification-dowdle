@@ -1,2 +1,2 @@
-# ml-midterm-dowdle
- On this custom project your professional machine learning skills and your professional communication skills will be assessed.
+# Dowdle's Module 4 Midterm Introduction
+ This custom project demonstrates professional machine learning skills and professional communication skills. 
