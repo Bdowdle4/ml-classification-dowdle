@@ -102,7 +102,7 @@ Do you want to select it for the workspace folder? Click Yes.
 
 ****
 
-## ## Repository Checklist
+## Repository Checklist
 
 Verify your repository contains:
 
