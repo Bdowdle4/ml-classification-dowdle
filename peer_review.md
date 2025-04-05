@@ -1,4 +1,4 @@
-# Nick Elias - Applied Machine Learning Midterm Project
+# Applied Machine Learning Midterm Project - Nick Elias
 **Author:** Brittany Dowdle  
 **Date:** April 2, 2025
 
